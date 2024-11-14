@@ -119,7 +119,7 @@ math.html
 <body>
     <div>
         <h1>Lamp Filament Power Calculator</h1>
-        <h2>MOHAMED RASHITH S 24001082</h2>
+        <h2>SANJAY V 212223230188</h2>
         <form id="powerForm" onsubmit="calculatePower(event)">
             <label for="intensity">Intensity (I in Amps):</label>
             <input type="number" id="intensity" name="intensity" step="any" required>
